@@ -1,0 +1,23 @@
+https://kr.vuejs.org/ 
+
+# 레퍼런스 읽기
+
+- 조각 
+라이프사이클훅
+options 속성이나 콜백에 
+created: () => console.log(this.a) 이나 vm.$watch('a', newValue => this.myMethod()) 
+와 같은 화살표 함수 사용을 지양
+
+
+
+
+# TODO
+
+Scrollbar -만들기. typescript / vue2 / 플젝 대응
+
+- 스크롤바 커스텀
+- dom 조작시 vue가 vNode를 사용하기 때문에 jquery를 통한 직접적인 조작보다는 최대한 vue를 통해서 사용을 하고자 한다. 
+- 현재 퍼블리셔가 만든 dom(div, tbody)에 다른 구조를 추가하지 않고 적용하고자 한다.
+- vue2 scrollbar, nicescrollbar 두 개를 소스를 봐서 적절하게 라이브러리를 만든다.
+- vue, webpack을 선행학습하고 저 두 소스를 봐서 새로 하나를 만들어서 프로젝트에 적용해본다.
+- 선행학습 중 웹팩 : 모듈, vue에서는 컴포넌트 사용.....  
