@@ -1,3 +1,3 @@
 # TIL
-## Today I Learned
-### study note
+
+Today I Learned & Study note
