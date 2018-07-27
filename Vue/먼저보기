@@ -1,10 +1,10 @@
-@20180726_TIL
+###20180726_TIL
 
-#. Decorator 사용 의문. 레퍼런스 쪼개기
+#### Decorator 사용 의문. 레퍼런스 쪼개기
 https://github.com/kaorun343/vue-property-decorator
 
 
-#. Vue 중요개념. 먼저체크하고 넘어가자.
+#### Vue 중요개념. 먼저체크하고 넘어가자.
 - 1. 컴포넌트 
 https://kr.vuejs.org/v2/guide/components.html
 
@@ -15,7 +15,7 @@ https://kr.vuejs.org/v2/guide/routing.html#%EA%B3%B5%EC%8B%9D-%EB%9D%BC%EC%9A%B0
 https://kr.vuejs.org/v2/guide/reactivity.html
 
 
-#. 데이터 통신 기본중에 기본해보기.
+#### 데이터 통신 기본중에 기본해보기.
 Axios 사용하기.
 
 
